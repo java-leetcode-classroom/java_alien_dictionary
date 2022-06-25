@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-25T19:00:56" hostname="yuanyu-ubuntu" time="0.033">
+  <properties/>
+  <testcase name="alienOrderExample1()" classname="SolutionTest" time="0.031"/>
+  <testcase name="alienOrderExample2()" classname="SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
